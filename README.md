@@ -21,8 +21,8 @@ Connects the Express API (Project 2) to a **MongoDB cloud database** using Mongo
 user-registration-api/
 ├── models/
 │   └── User.js       ← Database schema
-├── server_p3.js      ← Main server
-├── .env              ← MongoDB URI (secret)
+├── server_p3.js     ← Main server
+├── .gitignore           
 └── package.json
 ```
 
