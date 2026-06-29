@@ -69,3 +69,7 @@ createdAt  → Auto timestamp
 - [x] Designed a database schema
 - [x] Performed CRUD operations (Create, Read, Update, Delete)
 - [x] Proper data handling and validation
+      
+## Author
+Prerana Bubane
+DecodeLabs Full Stack Development Internship      
